@@ -1,7 +1,12 @@
 {
   "name": "chrisharrison/timetastic-api-php",
+  "description": "A PHP wrapper for the Timetastic API.",
   "type": "library",
   "authors": [
+    {
+      "name": "Alex Blackham",
+      "email": "ablackham2000@gmail.com"
+    },
     {
       "name": "Chris Harrison",
       "email": "c.harrison1988@gmail.com"

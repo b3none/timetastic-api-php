@@ -1,8 +1,8 @@
 # timetastic-api-php
 
-A PHP based Timetastic API client.
+A PHP wrapper for the Timetastic API.
 
-## Installation ##
+## Installation
 
 ```
 composer require chrisharrison/timetastic-api-php
